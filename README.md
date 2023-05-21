@@ -33,9 +33,6 @@ Apache Airflow Standard
 
 Python Pandas
 
-Open 8080 port in EC2 inbound rules
-
-Create a new IAM role in EC2 to be able to upload CSV from EC2 to S3 bucket.
 
 
 ### Process followed

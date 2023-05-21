@@ -60,7 +60,7 @@ Create a new IAM role in EC2 to be able to upload CSV from EC2 to S3 bucket.
 - Stop the airflow server using Ctrl+C and start using ***Airflow Standalone***. 
 - Check the Airflow Web, the DAG should be visible. Trigger the DAG and you should see a CSV saved to the S3 upon successfull run.
 
-**Enjoy the Project!**
+### **Enjoy the Project!**
 
 
 
